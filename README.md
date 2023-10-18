@@ -1,0 +1,7 @@
+- 👋 Hola, Soy @KrGabriel
+- 👀 Estoy interesado en aprender los distintos lenguajes de programacion, me gusta mucho el diseño web y
+- el diseño de videojuegos, actualmente manejo en un termino medio los lenguajes de python, java, c++, html
+- css, php, javascript y SQL
+- 🌱 Actualmente estoy estudiando una tecnicatura de analista de sistemas en el instituto IAES de puerto rico-misiones, argentina
+- 💞️ Actualmente estoy colaborando con dos proyectos uno que utiliza html, css, php, javascript y sql y otro que utiliza solo java
+- 📫 me pueden contactar usando mi correo que es gabriel.nicolas.krause@gmail.com
